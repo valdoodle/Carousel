@@ -28,4 +28,4 @@ Completed user stories:
 	- User can dismiss the settings screen.
 	- User can log out
 
-![Preview](/carouselpreview.gif)
+![Preview](/carouselpreview2.gif)
